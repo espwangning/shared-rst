@@ -9,6 +9,7 @@ Related Documentation
 - `{IDF_TARGET_NAME} Datasheet <{IDF_TARGET_DATASHEET_EN_URL}>`__ – Specifications of the {IDF_TARGET_NAME} hardware.
 - `{IDF_TARGET_NAME} Technical Reference Manual <{IDF_TARGET_TRM_EN_URL}>`__ – Detailed information on how to use the {IDF_TARGET_NAME} memory and peripherals.
 - `{IDF_TARGET_NAME} Hardware Design Guidelines <https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/{IDF_TARGET_PATH_NAME}/index.html>`__ – Guidelines on how to integrate the {IDF_TARGET_NAME} into your hardware product.
+- `{IDF_TARGET_NAME} Series SoC Errata <{IDF_TARGET_TRM_EN_URLhttps://docs.espressif.com/projects/esp-chip-errata/en/latest/{IDF_TARGET_PATH_NAME}/index.html}>`__ – Descriptions of known errors in {IDF_TARGET_NAME} series of SoCs.
 - Certificates |br|
   https://espressif.com/en/support/documents/certificates
 - {IDF_TARGET_NAME} Product/Process Change Notifications (PCN) |br|
